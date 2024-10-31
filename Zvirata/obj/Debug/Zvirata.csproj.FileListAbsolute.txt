@@ -1,0 +1,7 @@
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\bin\Debug\Zvirata.exe.config
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\bin\Debug\Zvirata.exe
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\bin\Debug\Zvirata.pdb
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\obj\Debug\Zvirata.csproj.AssemblyReference.cache
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\obj\Debug\Zvirata.csproj.CoreCompileInputs.cache
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\obj\Debug\Zvirata.exe
+C:\Users\VojtěchBláha\source\repos\Zvirata\Zvirata\obj\Debug\Zvirata.pdb
